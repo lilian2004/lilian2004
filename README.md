@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Lilian 👋
 
-<!--
-**lilian2004/lilian2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I build web products end to end — and I ship them to production.**
 
-Here are some ideas to get you started:
+Master's student in Information Systems Management (IAE Grenoble – Grenoble INP, France), with a background in finance. I work by directing AI the way a founder directs engineers: I design the architecture and the data model, specify precisely, then verify everything before shipping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Latest project
+
+**Naaxos — full digital rebuild** (2026): complete redesign of a company's website + Supabase database + Retool admin & CRM, delivered solo in 3 months, working directly with the CEO. In production.
+→ [Full case study on my portfolio](https://pepper-airboat-8ad.notion.site/Lilian-Miceli-Portfolio-37cd71c94d88812db48de0adad3de7b5)
+
+## 🛠️ Stack
+
+`HTML/CSS` · `JavaScript` · `Supabase (SQL, REST APIs)` · `Retool` · `AI-driven development (Claude, Cursor)`
+
+**Currently learning**: React.js & advanced JavaScript (Codecademy Frontend Engineer path) — this repo activity is my progress, live.
+
+## 🎯 Looking for
+
+A **6-month Founder's Associate / Growth internship** in an early-stage startup — Barcelona or remote, from September 2026.
+
+📩 lilianmiceli38@gmail.com · [LinkedIn](https://www.linkedin.com/in/lilian-miceli-451ab0235/) · [Portfolio](https://pepper-airboat-8ad.notion.site/Lilian-Miceli-Portfolio-37cd71c94d88812db48de0adad3de7b5)
