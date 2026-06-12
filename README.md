@@ -13,7 +13,7 @@ Master's student in Information Systems Management (IAE Grenoble – Grenoble IN
 
 `HTML/CSS` · `JavaScript` · `Supabase (SQL, REST APIs)` · `Retool` · `AI-driven development (Claude, Cursor)`
 
-**Currently learning**: React.js & advanced JavaScript (Codecademy Frontend Engineer path) — this repo activity is my progress, live.
+**Currently leveling up in React & advanced JavaScript (Codecademy Frontend Engineer) — consolidating the fundamentals behind what I ship.
 
 ## 🎯 Looking for
 
