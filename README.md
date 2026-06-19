@@ -1,22 +1,26 @@
 # Hi, I'm Lilian 👋
 
-**I build web products end to end — and I ship them to production.**
+**I take work off a founder's plate — and ship it to production, solo.**
 
-Master's student in Information Systems Management (IAE Grenoble – Grenoble INP, France), with a background in finance. I work by directing AI the way a founder directs engineers: I design the architecture and the data model, specify precisely, then verify everything before shipping.
+Master's student in Information Systems Management (IAE Grenoble – Grenoble INP, France), with a finance background. I work by directing AI the way a founder directs engineers: I scope the business need, design the architecture and the data model, specify precisely, then verify everything before shipping. *What others put in a slide, I put in production.*
 
-## 🚀 Latest project
+## 🚀 Projects
 
-**[Naaxos — full digital rebuild](https://github.com/lilian2004/naaxos-platform)** (2026): complete redesign of a company's website + Supabase database + Retool admin & CRM, delivered solo in 3 months, working directly with the CEO. **Live at [naaxos.fr](https://www.naaxos.fr)** — security-audited (RLS, Edge Functions, CAPTCHA) before launch.
+**[Naaxos — full digital rebuild](https://github.com/lilian2004/naaxos-platform)** (2026)
+A finance firm's entire digital presence — website + Supabase database + Retool admin/CRM — rebuilt solo in 3 months, working directly with the CEO. **Live at [naaxos.fr](https://www.naaxos.fr)**, security-audited (RLS, Edge Functions, CAPTCHA) before launch.
+→ [Code & architecture](https://github.com/lilian2004/naaxos-platform) · [Case study](https://pepper-airboat-8ad.notion.site/Lilian-Miceli-Portfolio-37cd71c94d88812db48de0adad3de7b5)
 
-→ [Code & architecture](https://github.com/lilian2004/naaxos-platform) · [Full case study](https://pepper-airboat-8ad.notion.site/Lilian-Miceli-Portfolio-37cd71c94d88812db48de0adad3de7b5)
+**[Outreach Agent — AI outreach automation](https://github.com/lilian2004/outreach-agent)**
+A Python + Flask agent that drafts a personalized email per founder with an LLM, sends from my Gmail, detects replies and auto-follows-up — human-in-the-loop, with a web dashboard. Running live on my own internship search.
+→ [Code](https://github.com/lilian2004/outreach-agent) · [Case study](https://pepper-airboat-8ad.notion.site/Lilian-Miceli-Portfolio-37cd71c94d88812db48de0adad3de7b5)
 
 ## 🔨 Currently building
 
-A **job application tracker** (React + Supabase) to run my own internship search — shipping July 2026. Built alongside the Codecademy Frontend Engineer path: every concept learned is applied the same day in [frontend-journey](https://github.com/lilian2004/frontend-journey).
+A **job application tracker** (React + Supabase) to manage my own internship search end to end — shipping July 2026. I deepen the underlying engineering daily (currently React) so I scope and verify with sharper judgment over time.
 
 ## 🛠️ Stack
 
-`HTML/CSS` · `JavaScript` · `React (in progress)` · `Supabase (SQL, REST APIs, RLS)` · `Edge Functions (Deno/TS)` · `Retool` · `AI-driven development (Claude, Cursor)`
+`HTML/CSS` · `JavaScript` · `React` · `Supabase (SQL, REST APIs, RLS)` · `Edge Functions (Deno/TS)` · `Retool` · `Python / Flask` · `AI-driven development (Claude, Cursor)`
 
 ## 🎯 Looking for
 
