@@ -7,8 +7,8 @@ Master's student in Information Systems Management (IAE Grenoble – Grenoble IN
 ## 🚀 Projects
 
 **[Naaxos — full digital rebuild](https://github.com/lilian2004/naaxos-platform)** (2026)
-A finance firm's entire digital presence — website + Supabase database + Retool admin/CRM — rebuilt solo in 3 months, working directly with the CEO. **Live at [naaxos.fr](https://www.naaxos.fr)**, security-audited (RLS, Edge Functions, CAPTCHA) before launch.
-→ [Code & architecture](https://github.com/lilian2004/naaxos-platform) · [Case study](https://pepper-airboat-8ad.notion.site/Lilian-Miceli-Portfolio-37cd71c94d88812db48de0adad3de7b5)
+A finance firm's entire digital presence — website + Supabase database + Retool admin/CRM — rebuilt solo in 3 months, working directly with the CEO. Production-ready and security-audited (RLS, Edge Functions, CAPTCHA); client go-live pending.
+→ [Live demo](https://naaxos-demo-lilian.netlify.app) · [Code & architecture](https://github.com/lilian2004/naaxos-platform) · [Case study](https://pepper-airboat-8ad.notion.site/Lilian-Miceli-Portfolio-37cd71c94d88812db48de0adad3de7b5)
 
 **[Outreach Agent — AI outreach automation](https://github.com/lilian2004/outreach-agent)**
 A Python + Flask agent that drafts a personalized email per founder with an LLM, sends from my Gmail, detects replies and auto-follows-up — human-in-the-loop, with a web dashboard. Running live on my own internship search.
